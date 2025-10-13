@@ -1,0 +1,21 @@
+# Core Dependencies
+boto3>=1.34.0
+botocore>=1.34.0
+flask>=3.0.0
+psycopg2-binary>=2.9.9
+requests>=2.31.0
+
+# AWS SDK Extensions
+awscli>=1.32.0
+
+# Utilities
+python-dateutil>=2.8.2
+pytz>=2024.1
+
+# Logging
+python-json-logger>=2.0.7
+
+# Type Checking (Optional)
+mypy>=1.8.0
+types-boto3>=1.0.2
+types-requests>=2.31.0

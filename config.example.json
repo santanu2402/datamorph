@@ -1,0 +1,19 @@
+{
+  "RDS_ENDPOINT": "your-rds-endpoint.region.rds.amazonaws.com",
+  "RDS_PORT": 5432,
+  "RDS_USERNAME": "your_username",
+  "RDS_PASSWORD": "your_password",
+  "RDS_DBNAME": "your_database",
+  "S3_BUCKET": "your-bucket-name",
+  "DYNAMODB_TABLE": "datamorph_logs",
+  "DYNAMODB_PARTITION_KEY": "run_id",
+  "BEDROCK_MODEL_ID": "us.anthropic.claude-sonnet-4-5-20250929-v1:0",
+  "BEDROCK_REGION": "us-east-1",
+  "AWS_REGION": "us-east-1",
+  "FLASK_APP_URL": "http://your-flask-api-url:5000",
+  "GLUE_ROLE": "your-glue-iam-role",
+  "SPECS_PATH": "s3://your-bucket/specs",
+  "GLUE_CODE_PATH": "s3://your-bucket/glue/codes",
+  "GLUE_CONFIG_PATH": "s3://your-bucket/glue/configs",
+  "GLUE_OTHERS_PATH": "s3://your-bucket/glue/others"
+}
