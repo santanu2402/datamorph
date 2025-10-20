@@ -11,7 +11,7 @@
 [![AI](https://img.shields.io/badge/AI-Claude%20Sonnet%204.5-8A2BE2?style=for-the-badge)](https://www.anthropic.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
-[Features](#-key-features) • [Architecture](#-architecture) • [Quick Start](#-quick-start) • [Documentation](#-documentation) • [Examples](#-examples)
+[Features](#-key-features) • [Architecture](#-Architecture) • [Quick Start](#-quick-start) • [Documentation](#-documentation) • [Examples](#-examples)
 
 </div>
 
