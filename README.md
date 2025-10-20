@@ -531,15 +531,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact & Support
-
-- 📧 Email: support@datamorph.ai
-- 💬 Discord: [Join our community](https://discord.gg/datamorph)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/datamorph/issues)
-- 📖 Docs: [Full Documentation](https://docs.datamorph.ai)
-
----
-
 <div align="center">
 
 ### ⭐ Star us on GitHub!
